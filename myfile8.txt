@@ -1,0 +1,1 @@
+this is sixth sample added to feature/newbranch1 of myrepo.
