@@ -1,1 +1,1 @@
-Adding this sample file into feature/newbranch1 of myrepo.
+This is second sample file for myreop repository on master branch.
